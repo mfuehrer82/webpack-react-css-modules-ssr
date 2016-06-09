@@ -37,7 +37,7 @@ npm run watch
 
 This creates the [localhost:3001](http://localhost:3001) and a network url.
 
-# Folder structure
+## Folder structure
 
 Folder                           | Description
 ---------------------------------|----------------------------------------
