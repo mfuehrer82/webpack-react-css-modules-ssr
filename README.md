@@ -36,3 +36,16 @@ npm run watch
 ```
 
 This creates the [localhost:3001](http://localhost:3001) and a network url.
+
+# Folder structure
+
+Folder                           | Description
+---------------------------------|----------------------------------------
+`build/`                         | Contains the webpack client and server configuration
+`src/root/`                      | All files used at the root folder for static file serving
+`src/scripts/components/`        | The React components
+`src/scripts/config/routing.jsx` | The application routing configuration
+`src/scripts/client.js`          | The frontend Javascript
+`src/scripts/server.js`          | The Node.js Express server
+`src/styles/`                    | CSS Modules
+`src/templates/`                 | The base HTML template to serve with Express
