@@ -15,7 +15,7 @@ A basic project with Webpack, React, CSS Modules and Server Side Rendering.
 Install the application:
 
 ```sh
-npm install
+npm install && npm run build
 ```
 
 Then first start the express server:
